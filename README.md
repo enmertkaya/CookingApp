@@ -4,4 +4,4 @@ Web Form Giriş Sayfası;
 Sync kullanım için örnek ;
 ![Sync](https://github.com/enmertkaya/CookingApp/assets/151652097/a3c4bdd6-cbff-49e3-84d4-ee5c255eb890)
 ASync kullanım için örnek ;
-![Uploading async.png…]()
+![async](https://github.com/enmertkaya/CookingApp/assets/151652097/3faf27b3-f1b5-4e56-8d64-b3d9aea00484)
